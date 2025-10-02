@@ -22,9 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { 
-        icon: 'qq', link: 'https://jq.qq.com/?_wv=1027&k=582959600',
-      }
+      { icon: 'qq', link: 'https://jq.qq.com/?_wv=1027&k=582959600'},
       { icon: 'github', link: 'https://github.com/LeaflowNET' }
     ]
   }
