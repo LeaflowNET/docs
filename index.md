@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Leaflow Docs"
-  text: "Leaflow 文档教程库"
+  name: "Leaflow"
+  text: "文档教程库 Docs"
   tagline: 存储了所有来自 Leaflow 官方编写以及优秀的社区文档收集库
   actions:
     - theme: brand
