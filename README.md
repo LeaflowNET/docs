@@ -1,21 +1,14 @@
 # Leaflow 官方文档档案
 
+[![Leaflow](https://img.shields.io/badge/Leaflow-Brand-black?style=flat-square&labelColor=white&color=black)](https://leaflow.net/)
 [![VitePress](https://img.shields.io/badge/VitePress-2.0.0--alpha.12-646CFF?style=flat-square&logo=vite)](https://vitepress.dev/)
 [![Archive](https://img.shields.io/badge/Archive-Documentation-blue?style=flat-square)](https://github.com/LeaflowNET)
 
-> Leaflow 官方文档档案存储空间 - 让技术更简单，让合作更紧密
+> Leaflow 官方文档档案存储空间 - 企业级云原生应用平台
 
 ## 📖 档案简介
 
 这是 Leaflow 的官方文档档案存储空间，包含了完整的项目文档、教程、API 参考和合作伙伴信息。文档采用 VitePress 构建，提供中英双语支持。
-
-## 📚 档案内容
-
-- 📋 **项目文档** - 完整的项目说明和使用指南
-- 🔧 **API 参考** - 详细的接口文档和示例
-- 🤝 **合作伙伴** - 官方合作伙伴信息
-- 🌍 **多语言支持** - 中文/英文双语文档
-- 📝 **示例教程** - Markdown 和代码示例
 
 ## ✨ 档案特性
 
@@ -69,7 +62,6 @@ docs/
 
 ## 📞 联系我们
 
-- **GitHub**: [LeaflowNET](https://github.com/LeaflowNET)
 - **QQ群**: [582959600](https://jq.qq.com/?_wv=1027&k=582959600)
 
 ---
@@ -78,6 +70,6 @@ docs/
 
 **粤ICP备2025440018号**
 
-*Leaflow - 让技术更简单，让合作更紧密*
+*Leaflow - 企业级云原生应用平台*
 
 </div>
