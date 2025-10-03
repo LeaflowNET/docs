@@ -1,6 +1,6 @@
-# Leaflow Cloud Service Terms of Service
+# Leaflow Service Terms of Service
 
-**Effective Date:** July 19, 2025
+**Effective Date:** October 4, 2025
 
 **Important Notice:**
 

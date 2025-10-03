@@ -1,6 +1,6 @@
 # Leaflow Service Privacy Policy
 
-**Effective Date:** July 19, 2025
+**Effective Date:** October 4, 2025
 
 **Zhongshan Lifei Technology Co., Ltd.** (hereinafter referred to as "Lifei Technology", "we") deeply understands the importance of personal information to you and is committed to protecting your privacy and security. This "Leaflow Service Privacy Policy" (hereinafter referred to as "this Policy") aims to explain how we collect, use, store, share and protect your personal information when you use Leaflow services (hereinafter referred to as "this Service"), and how you can exercise your personal information rights. Please read and understand this Policy carefully before using this Service. **If you do not agree with the content of this Policy, please do not use this Service. By starting to use this Service, you indicate that you have fully understood and agreed to our processing of your information in accordance with this Policy.**
 
