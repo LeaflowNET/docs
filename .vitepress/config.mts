@@ -34,7 +34,8 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/' },
           { text: '示例', link: '/markdown-examples' },
-          { text: '合作伙伴', link: '/partners' }
+          { text: '合作伙伴', link: '/partners' },
+          { text: '隐私政策', link: '/privacy-policy' }
         ],
         sidebar: [
           {
@@ -47,7 +48,8 @@ export default defineConfig({
           {
             text: '关于我们',
             items: [
-              { text: '合作伙伴', link: '/partners' }
+              { text: '合作伙伴', link: '/partners' },
+              { text: '隐私政策', link: '/privacy-policy' }
             ]
           }
         ],
@@ -66,7 +68,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Examples', link: '/en/markdown-examples' },
-          { text: 'Partners', link: '/en/partners' }
+          { text: 'Partners', link: '/en/partners' },
+          { text: 'Privacy Policy', link: '/en/privacy-policy' }
         ],
         sidebar: [
           {
@@ -79,7 +82,8 @@ export default defineConfig({
           {
             text: 'About Us',
             items: [
-              { text: 'Partners', link: '/en/partners' }
+              { text: 'Partners', link: '/en/partners' },
+              { text: 'Privacy Policy', link: '/en/privacy-policy' }
             ]
           }
         ],
