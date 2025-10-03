@@ -33,19 +33,11 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/' },
-          { text: '示例', link: '/markdown-examples' },
           { text: '合作伙伴', link: '/partners' },
           { text: '隐私政策', link: '/privacy-policy' },
           { text: '服务协议', link: '/terms-of-service' }
         ],
         sidebar: [
-          {
-            text: '示例',
-            items: [
-              { text: 'Markdown 示例', link: '/markdown-examples' },
-              { text: 'Runtime API 示例', link: '/api-examples' }
-            ]
-          },
           {
             text: '关于我们',
             items: [
@@ -69,19 +61,11 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'Examples', link: '/en/markdown-examples' },
           { text: 'Partners', link: '/en/partners' },
           { text: 'Privacy Policy', link: '/en/privacy-policy' },
           { text: 'Terms of Service', link: '/en/terms-of-service' }
         ],
         sidebar: [
-          {
-            text: 'Examples',
-            items: [
-              { text: 'Markdown Examples', link: '/en/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/en/api-examples' }
-            ]
-          },
           {
             text: 'About Us',
             items: [

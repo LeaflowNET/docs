@@ -11,17 +11,17 @@ hero:
     alt: Leaflow Docs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /en/markdown-examples
+      text: Get Started
+      link: /en/partners
     - theme: alt
-      text: API Examples
-      link: /en/api-examples
+      text: Privacy Policy
+      link: /en/privacy-policy
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Official Documentation
+    details: Complete documentation and tutorials written by the official team
+  - title: Community Contributions
+    details: Excellent community documentation and best practice guides
+  - title: Continuous Updates
+    details: Documentation library is continuously updated to ensure content timeliness and accuracy
 ---

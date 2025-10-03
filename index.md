@@ -11,18 +11,18 @@ hero:
     alt: Leaflow Docs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始使用
+      link: /partners
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 隐私政策
+      link: /privacy-policy
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 官方文档
+    details: 包含所有官方编写的完整文档和教程
+  - title: 社区贡献
+    details: 收录优秀的社区文档和最佳实践指南
+  - title: 持续更新
+    details: 文档库持续更新，确保内容的时效性和准确性
 ---
 
