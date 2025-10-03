@@ -1,0 +1,10 @@
+/* 隐藏页脚分割线 */
+.VPFooter {
+  border-top: none !important;
+}
+
+/* 如果有其他页脚相关的边框，也一并隐藏 */
+.vp-doc-footer,
+.DocFooter {
+  border-top: none !important;
+}
