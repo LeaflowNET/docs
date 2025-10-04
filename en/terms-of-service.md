@@ -43,9 +43,9 @@ You promise and guarantee that you shall not use any resources of the Service (i
 
 (a) **Building, running or participating in any form of network penetration tools (such as VPN, proxy, circumvention software, etc.) to evade national network supervision or access illegal overseas information;**
 
-(b) **Providing third parties with network penetration, traffic forwarding and other services that violate Chinese laws and regulations;**
+(b) **Providing third parties with network penetration, traffic forwarding and other services for the purpose of evading network supervision, accessing illegal content, or other purposes that violate Chinese laws and regulations;**
 
-(c) **Creating, distributing, and spreading tools or tutorials for network penetration.**
+(c) **Creating, distributing, and spreading network penetration tools or tutorials specifically designed for evading network supervision or accessing illegal content.**
 
 **If you violate this clause, Lifei Technology has the right to immediately terminate the service and pursue legal responsibility.**
 
