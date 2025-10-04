@@ -39,7 +39,7 @@ html[lang="en-US"] .VPHero .image {
 }
 
 /* 响应式调整 */
-@media (max-width: 768px) {
+@media (max-width: 960px) {
   .VPHero .image-container,
   .VPHero .image {
     width: 240px !important;
@@ -69,5 +69,91 @@ html[lang="en-US"] .VPHero .image {
     justify-content: center !important;
     align-items: center !important;
     margin: 0 auto !important;
+  }
+  
+  /* 强制移动端hero整体布局居中 */
+  .VPHero {
+    text-align: center !important;
+  }
+  
+  .VPHero .clip {
+    text-align: center !important;
+  }
+  
+  /* 确保hero内容区域完全居中 */
+  .VPHero .content {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+  }
+  
+  /* 移动端图片额外居中保证 */
+  .VPHero .image-container img,
+  .VPHero .image img {
+    margin: 0 auto !important;
+    display: block !important;
+  }
+}
+
+/* 中等屏幕设备的调整 (769px-960px) */
+@media (min-width: 769px) and (max-width: 960px) {
+  .VPHero .image-container,
+  .VPHero .image {
+    width: 280px !important;
+    height: 280px !important;
+    max-width: 280px !important;
+    max-height: 280px !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+  
+  /* 确保中等屏幕hero区域居中 */
+  .VPHero {
+    text-align: center !important;
+  }
+  
+  .VPHero .container,
+  .VPHero .main,
+  .VPHero .content {
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .VPHero .image-bg,
+  .VPHero .image-container {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 auto !important;
+  }
+}
+
+/* 更小屏幕设备的额外调整 */
+@media (max-width: 480px) {
+  .VPHero .image-container,
+  .VPHero .image {
+    width: 200px !important;
+    height: 200px !important;
+    max-width: 200px !important;
+    max-height: 200px !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+  
+  /* 确保超小屏幕也完全居中 */
+  .VPHero,
+  .VPHero .container,
+  .VPHero .main,
+  .VPHero .content {
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
   }
 }

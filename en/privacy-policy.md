@@ -56,7 +56,7 @@ Conduct necessary communication with you regarding account-related matters (such
 By analyzing service usage data (usually de-identified or aggregated data), understand how users use our services to improve service performance, develop new features, and enhance user experience.
 
 ### Fulfilling Contractual Obligations
-Fulfill obligations in the "Leaflow Cloud Service Agreement" signed with you.
+Fulfill obligations in the "Leaflow Service Agreement" signed with you.
 
 ## Information Disclosure
 

@@ -11,11 +11,11 @@ hero:
     alt: Leaflow Docs
   actions:
     - theme: brand
-      text: 开始使用
-      link: /partners
-    - theme: alt
-      text: 隐私政策
+      text: 阅读文档 →
       link: /privacy-policy
+    - theme: alt
+      text: 合作伙伴
+      link: /partners
 
 features:
   - title: 官方文档

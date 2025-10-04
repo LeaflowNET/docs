@@ -69,7 +69,7 @@ You should pay all due fees in full and on time. **If you fail to pay fees befor
 
 ## Privacy Protection
 
-**You agree to accept and comply with the "Leaflow Cloud Service Privacy Policy" (hereinafter referred to as "Privacy Policy") formulated by Lifei Technology. The Privacy Policy details how we collect, use, store, share and protect your personal information and is an important part of this Agreement.** The content of the Privacy Policy can be viewed at the designated location on the Leaflow website.
+**You agree to accept and comply with the "Leaflow Privacy Policy" (hereinafter referred to as "Privacy Policy") formulated by Lifei Technology. The Privacy Policy details how we collect, use, store, share and protect your personal information and is an important part of this Agreement.** The content of the Privacy Policy can be viewed at the designated location on the Leaflow website.
 
 ## Intellectual Property
 

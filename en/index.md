@@ -11,11 +11,11 @@ hero:
     alt: Leaflow Docs
   actions:
     - theme: brand
-      text: Get Started
-      link: /en/partners
-    - theme: alt
-      text: Privacy Policy
+      text: Read Docs →
       link: /en/privacy-policy
+    - theme: alt
+      text: Partners
+      link: /en/partners
 
 features:
   - title: Official Documentation

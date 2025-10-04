@@ -39,7 +39,7 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: '关于我们',
+            text: '关于 Leaflow',
             items: [
               { text: '合作伙伴', link: '/partners' },
               { text: '隐私政策', link: '/privacy-policy' },
@@ -67,7 +67,7 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: 'About Us',
+            text: 'About Leaflow',
             items: [
               { text: 'Partners', link: '/en/partners' },
               { text: 'Privacy Policy', link: '/en/privacy-policy' },
