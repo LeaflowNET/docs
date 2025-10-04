@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Read Docs →
-      link: /en/privacy-policy
+      link: /en/quick-start/register-account
     - theme: alt
       text: Partners
       link: /en/partners

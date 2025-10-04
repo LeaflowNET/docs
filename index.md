@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 阅读文档 →
-      link: /privacy-policy
+      link: /quick-start/register-account
     - theme: alt
       text: 合作伙伴
       link: /partners

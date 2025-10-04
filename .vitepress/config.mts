@@ -11,8 +11,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      message: '粤ICP备2025440018号',
-      copyright: 'Copyright © 2024 Leaflow'
+      message: '粤ICP备2025440018号'
     }
   },
   
@@ -33,17 +32,26 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/' },
+          { text: '快速开始', link: '/quick-start/register-account' },
           { text: '合作伙伴', link: '/partners' },
           { text: '隐私政策', link: '/privacy-policy' },
           { text: '服务协议', link: '/terms-of-service' }
         ],
         sidebar: [
           {
-            text: '关于 Leaflow',
+            text: '🚀 快速开始',
             items: [
-              { text: '合作伙伴', link: '/partners' },
-              { text: '隐私政策', link: '/privacy-policy' },
-              { text: '服务协议', link: '/terms-of-service' }
+              { text: '👤 注册帐号', link: '/quick-start/register-account' },
+              { text: '💰 计费规则', link: '/quick-start/billing-rules' },
+              { text: '🌐 创建可用区', link: '/quick-start/create-availability-zone' }
+            ]
+          },
+          {
+            text: '📖 关于 Leaflow',
+            items: [
+              { text: '🤝 合作伙伴', link: '/partners' },
+              { text: '🔒 隐私政策', link: '/privacy-policy' },
+              { text: '📋 服务协议', link: '/terms-of-service' }
             ]
           }
         ],
@@ -61,17 +69,26 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: 'Quick Start', link: '/en/quick-start/register-account' },
           { text: 'Partners', link: '/en/partners' },
           { text: 'Privacy Policy', link: '/en/privacy-policy' },
           { text: 'Terms of Service', link: '/en/terms-of-service' }
         ],
         sidebar: [
           {
-            text: 'About Leaflow',
+            text: '🚀 Quick Start',
             items: [
-              { text: 'Partners', link: '/en/partners' },
-              { text: 'Privacy Policy', link: '/en/privacy-policy' },
-              { text: 'Terms of Service', link: '/en/terms-of-service' }
+              { text: '👤 Register Account', link: '/en/quick-start/register-account' },
+              { text: '💰 Billing Rules', link: '/en/quick-start/billing-rules' },
+              { text: '🌐 Create Availability Zone', link: '/en/quick-start/create-availability-zone' }
+            ]
+          },
+          {
+            text: '📖 About Leaflow',
+            items: [
+              { text: '🤝 Partners', link: '/en/partners' },
+              { text: '🔒 Privacy Policy', link: '/en/privacy-policy' },
+              { text: '📋 Terms of Service', link: '/en/terms-of-service' }
             ]
           }
         ],

@@ -2,10 +2,22 @@
 
 Leaflow is committed to providing users with the highest quality service experience. We work hand in hand with excellent sponsors to jointly promote technological innovation and service improvement.
 
-## 🎯 Sponsors (In no particular order)
+## 🌐 Availability Zone Sponsors
 
-| Sponsor | Partnership Type |
-|---------|------------------|
-| [**Backwaves**](https://backwaves.net/) | Official Sponsor |
-| [**Yecaoyun**](https://www.yecaoyun.com/) | Official Sponsor |
-| [**Wuyouyun**](https://www.wuyouyun.com/) | Official Sponsor |
+| Sponsor | Description |
+|---------|-------------|
+| [**Backwaves**](https://backwaves.net/) | Availability Zone Sponsor |
+| [**Yecaoyun**](https://www.yecaoyun.com/) | Availability Zone Sponsor |
+| [**Wuyouyun**](https://www.wuyouyun.com/) | Availability Zone Sponsor |
+
+## 🤖 LLM Infrastructure Sponsors
+
+| Sponsor | Description |
+|---------|-------------|
+| [**Novita AI**](https://novita.ai/) | LLM Infrastructure Sponsor |
+
+## ☁️ Cloud Innovation Program Sponsors
+
+| Sponsor | Description |
+|---------|-------------|
+| [**Amazon Web Services**](https://aws.amazon.com/) | Cloud Innovation Program Sponsor |
