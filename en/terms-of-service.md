@@ -63,16 +63,26 @@ You promise and guarantee that you shall not use any resources of the Service (i
 
 ### P2P Application Usage Guidelines
 
-**Regarding the use of BT/PT and other P2P download applications, we have established the following guidelines:**
+**To ensure network security, regulatory compliance, and fair resource usage, we explicitly prohibit the following activities:**
 
-(a) **Legal Content Restrictions:** You may only use BT/PT and other P2P applications to download and share legal content. It is strictly prohibited to download, store, or distribute any content that infringes intellectual property rights or violates laws and regulations;
+(a) **P2P Application Prohibition:** It is strictly prohibited to install, run, or use any form of P2P download applications on our servers, including but not limited to:
+   - BitTorrent (BT) clients (such as qBittorrent, Transmission, Deluge, etc.);
+   - Private Tracker (PT) download tools;
+   - Other P2P protocol-based file sharing applications;
+   - Any form of torrent download software;
 
-(b) **Resource Usage Restrictions:**
-   - P2P applications may generate a large number of network connections and sustained high bandwidth usage. You should ensure that such usage does not affect the normal operation of other services in the same network environment;
-   - It is recommended to conduct large-scale P2P download activities during off-peak network usage periods;
-   - For long-term high-intensity P2P usage, we may implement traffic shaping to ensure overall network performance;
+(b) **Technical Detection:** We will monitor and detect P2P traffic through technical means, and will immediately take restrictive measures once such activities are discovered;
 
-(c) **Regulatory Compliance:** You must comply with relevant laws and regulations when using P2P applications. We have the right to monitor and manage P2P traffic according to regulatory requirements.
+(c) **Violation Handling:** If P2P application usage is detected, we will:
+   - Immediately suspend related services;
+   - Require users to stop and uninstall related software;
+   - For repeat violators, we reserve the right to terminate services;
+
+(d) **Alternative Solutions:** If you have large file transfer needs, we recommend using:
+   - Official cloud storage services (such as Alibaba Cloud OSS, Tencent Cloud COS, etc.);
+   - HTTP/HTTPS direct downloads;
+   - FTP/SFTP file transfer protocols;
+   - Other compliant file transfer methods.
 
 ### Media Service Deployment Guidelines
 
