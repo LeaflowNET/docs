@@ -49,6 +49,72 @@ You promise and guarantee that you shall not use any resources of the Service (i
 
 **If you violate this clause, Lifei Technology has the right to immediately terminate the service and pursue legal responsibility.**
 
+## Network Resource Usage Guidelines
+
+### Bandwidth Usage Policy
+
+**While we provide unlimited traffic services, to ensure fair usage for all users and network stability, we have established the following guidelines for bandwidth usage:**
+
+(a) **Bandwidth Limits:** The bandwidth limit for each instance is determined by the service plan you choose, with specific bandwidth specifications clearly indicated on the product page. Under normal usage conditions, you can fully utilize the allocated bandwidth resources;
+
+(b) **Fair Usage Principle:** You should use network resources reasonably and must not occupy excessive bandwidth for extended periods that affects other users' normal usage. We reserve the right to temporarily limit abnormal high traffic during network congestion;
+
+(c) **Short-term Burst Traffic:** We understand that businesses may have short-term (30 minutes to 1 hour) high traffic demands. For such reasonable burst traffic, we will do our best to guarantee it, but may make appropriate adjustments based on network conditions.
+
+### P2P Application Usage Guidelines
+
+**Regarding the use of BT/PT and other P2P download applications, we have established the following guidelines:**
+
+(a) **Legal Content Restrictions:** You may only use BT/PT and other P2P applications to download and share legal content. It is strictly prohibited to download, store, or distribute any content that infringes intellectual property rights or violates laws and regulations;
+
+(b) **Resource Usage Restrictions:**
+   - P2P applications may generate a large number of network connections and sustained high bandwidth usage. You should ensure that such usage does not affect the normal operation of other services in the same network environment;
+   - It is recommended to conduct large-scale P2P download activities during off-peak network usage periods;
+   - For long-term high-intensity P2P usage, we may implement traffic shaping to ensure overall network performance;
+
+(c) **Regulatory Compliance:** You must comply with relevant laws and regulations when using P2P applications. We have the right to monitor and manage P2P traffic according to regulatory requirements.
+
+### Media Service Deployment Guidelines
+
+**Regarding the deployment and use of media servers such as Emby, Plex, Jellyfin:**
+
+(a) **Content Compliance:**
+   - All content stored and provided by your deployed media server must be content that you legally own or have obtained authorization for;
+   - It is strictly prohibited to store or distribute any pirated, infringing, or illegal audio and video content;
+   - You are fully legally responsible for all content in your media library;
+
+(b) **Access Control:**
+   - It is recommended that you set appropriate access controls and user authentication for your media server;
+   - Media servers must not be used for commercial content distribution or providing services to unspecified public;
+   - It is recommended to limit sharing to personal, family, or small circle of friends for legal sharing;
+
+(c) **Resource Usage:**
+   - Media transcoding and streaming may consume significant CPU and bandwidth resources. You should choose appropriate service configurations based on actual needs;
+   - During high concurrent access, please ensure it does not affect the normal operation of other services on the same instance;
+
+(d) **Data Backup:** We strongly recommend that you regularly backup important media content and configuration files to prevent data loss.
+
+### Traffic Anomaly Handling
+
+**When the following situations are detected, we may take temporary restriction measures:**
+
+(a) Sustained abnormally high traffic that exceeds normal usage patterns (such as continuous full bandwidth usage for several hours);
+(b) Large numbers of abnormal network connections or suspected network attack behaviors;
+(c) Usage patterns that affect network infrastructure stability;
+(d) Behaviors that violate the above usage guidelines.
+
+**Temporary restriction measures may include but are not limited to:**
+- Bandwidth throttling (usually limited to 50%-80% of normal bandwidth);
+- Connection number limitations;
+- Traffic shaping for specific protocols or ports;
+- Short-term service suspension in extreme cases.
+
+**We promise:**
+- Any restriction measures will be temporary, usually not exceeding 24 hours;
+- We will promptly notify you of relevant restrictions and reasons via email or internal messages;
+- You can contact customer service at any time to understand specific situations and apply for restriction removal;
+- For reasonable business needs, we will actively assist you in finding appropriate solutions.
+
 ## Fees and Payment
 
 You agree to pay the fees incurred by the services and related resources you use according to the charging standards and billing rules published by Lifei Technology on the Leaflow platform. The specific fee standards shall be subject to platform display or separate written agreement between the parties.

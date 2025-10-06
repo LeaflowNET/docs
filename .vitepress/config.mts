@@ -97,6 +97,43 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/LeaflowNET' }
         ]
       }
+    },
+    'zh-TW': {
+      label: '繁體中文',
+      lang: 'zh-TW',
+      title: "Leaflow 文檔",
+      description: "Leaflow 官方文檔教程庫",
+      themeConfig: {
+        nav: [
+          { text: '首頁', link: '/zh-TW/' },
+          { text: '快速開始', link: '/zh-TW/quick-start/register-account' },
+          { text: '合作夥伴', link: '/zh-TW/partners' },
+          { text: '隱私政策', link: '/zh-TW/privacy-policy' },
+          { text: '服務協議', link: '/zh-TW/terms-of-service' }
+        ],
+        sidebar: [
+          {
+            text: '🚀 快速開始',
+            items: [
+              { text: '👤 註冊帳號', link: '/zh-TW/quick-start/register-account' },
+              { text: '💰 計費規則', link: '/zh-TW/quick-start/billing-rules' },
+              { text: '🌐 創建可用區', link: '/zh-TW/quick-start/create-availability-zone' }
+            ]
+          },
+          {
+            text: '📖 關於 Leaflow',
+            items: [
+              { text: '🤝 合作夥伴', link: '/zh-TW/partners' },
+              { text: '🔒 隱私政策', link: '/zh-TW/privacy-policy' },
+              { text: '📋 服務協議', link: '/zh-TW/terms-of-service' }
+            ]
+          }
+        ],
+        socialLinks: [
+          { icon: 'qq', link: 'https://jq.qq.com/?_wv=1027&k=582959600'},
+          { icon: 'github', link: 'https://github.com/LeaflowNET' }
+        ]
+      }
     }
   }
 })
